@@ -1,7 +1,15 @@
 streamlit
+fpdf
+python-dotenv
+tqdm
+
 langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-pinecone
+
 pinecone-client
 huggingface_hub
 sentence-transformers
-fpdf
-langchain_pinecone
+
