@@ -1,0 +1,7 @@
+streamlit
+langchain
+pinecone-client
+huggingface_hub
+sentence-transformers
+fpdf
+langchain_pinecone
