@@ -4,11 +4,15 @@
 
 ## 🚀 Features
 
-Let me know if you'd like it downloaded as a file or if you want your actual name included under Contributors!
+- 🌐 Streamlit-based UI for chatting with a medical assistant.
 - 🤖 Integration with Hugging Face LLMs (e.g., Mistral 7B).
 - 📚 Contextual document retrieval via Pinecone vector store.
 - 🧠 Memory-enabled chat sessions with save/load/edit/delete functionality.
 - 📁 Export chat history as `.txt` files.
+
+## 🌐 Live Demo
+
+👉 **Try the app here:** [MediHelp AI on Streamlit](https://mediapp-ai-bot-gmodjkknuc6drnnqkvfdwd.streamlit.app/)
 
 ## 📂 Project Structure
 
@@ -21,7 +25,7 @@ Let me know if you'd like it downloaded as a file or if you want your actual nam
 
 ## 🧪 Requirements
 
-- Python 3.10+
+- Python 3.8+
 - Hugging Face Transformers
 - Streamlit
 - LangChain
@@ -83,14 +87,9 @@ All interactions use a strict prompt template that:
 
 Chats can be exported in `.txt` format from the sidebar.
 
-## 📌 Notes
-
-- You can use local models or Hugging Face Inference Endpoints.
-- LLM and retriever are flexible and modular—can be swapped easily.
-
 ## 👥 Contributors
 
 - **Krishnagopal Jay**  
 - **Ritam Koley**  
-- **Jit Mandal**  
-- **Anwesha Das** 
+- **Jit Mandal** 
+- **Anwesha Das**  
