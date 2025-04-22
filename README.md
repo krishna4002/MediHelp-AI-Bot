@@ -38,11 +38,6 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-> You can generate `requirements.txt` with:
-```bash
-pip freeze > requirements.txt
-```
-
 ## 🔧 Setup
 
 1. Create a `.env` file and fill it with your credentials:
