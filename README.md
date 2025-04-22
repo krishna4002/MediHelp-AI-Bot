@@ -180,14 +180,9 @@ Chats can be exported in `.txt` format from the sidebar.
 - You can use local models or Hugging Face Inference Endpoints.
 - LLM and retriever are flexible and modular—can be swapped easily.
 
-## Contributors
+## 👥 Contributors
 
-This project was built with dedication by:
-
-Krishnagopal Jay
-
-Ritam Koley
-
-Jit Mandal 
-
-Anwesha Das
+- **Krishnagopal Jay**  
+- **Ritam Koley**  
+- **Jit Mandal**  
+- **Anwesha Das** 
