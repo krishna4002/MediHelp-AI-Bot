@@ -213,7 +213,7 @@ def main():
 
     # Handle prompt input (store but delay handling until next render cycle)
     if "regenerate_index" not in st.session_state:
-        prompt = st.chat_input("Ask about any Medical queries!")
+        prompt = st.chat_input("Ask about any Medical queries...")
         if prompt:
             st.session_state.pending_prompt = prompt
             st.rerun()
