@@ -4,8 +4,6 @@
 
 ## 🚀 Features
 
----
-
 Let me know if you'd like it downloaded as a file or if you want your actual name included under Contributors!
 - 🤖 Integration with Hugging Face LLMs (e.g., Mistral 7B).
 - 📚 Contextual document retrieval via Pinecone vector store.
