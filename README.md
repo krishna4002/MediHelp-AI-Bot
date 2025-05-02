@@ -1,20 +1,20 @@
-# 🏥 MediHelp AI
+# MediHelp AI
 
 **MediHelp AI** is an intelligent, context-aware medical chatbot powered by large language models (LLMs) and Pinecone vector search. It allows users to interact with medical data, ask complex queries, and retrieve detailed, source-backed answers.
 
-## 🚀 Features
+## Features
 
-- 🌐 Streamlit-based UI for chatting with a medical assistant.
-- 🤖 Integration with Hugging Face LLMs (e.g., Mistral 7B).
-- 📚 Contextual document retrieval via Pinecone vector store.
-- 🧠 Memory-enabled chat sessions with save/load/edit/delete functionality.
-- 📁 Export chat history as `.txt` files.
+-  Streamlit-based UI for chatting with a medical assistant.
+-  Integration with Hugging Face LLMs (e.g., Mistral 7B).
+-  Contextual document retrieval via Pinecone vector store.
+-  Memory-enabled chat sessions with save/load/edit/delete functionality.
+-  Export chat history as `.txt` files.
 
-## 🌐 Live Demo
+##  Live Demo
 
 👉 **Try the app here:** [MediHelp AI on Streamlit](https://mediapp-ai-bot-gmodjkknuc6drnnqkvfdwd.streamlit.app/)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 ├── MediHelp_AI.py            # Streamlit app file
@@ -23,7 +23,7 @@
 ├── chat_sessions/            # Folder for saved user sessions
 ```
 
-## 🧪 Requirements
+##  Requirements
 
 - Python 3.10+
 - Hugging Face Transformers
@@ -38,7 +38,7 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-## 🔧 Setup
+##  Setup
 
 1. Create a `.env` file and fill it with your credentials:
 
@@ -51,7 +51,7 @@ PINECONE_INDEX_NAME="your_pinecone_index_name"
 
 2. Ensure Pinecone is configured with a suitable index using `"sentence-transformers/all-MiniLM-L6-v2"` as the embedding model.
 
-## 💬 Running the Chatbot
+##  Running the Chatbot
 
 Run the Streamlit interface with:
 
@@ -65,7 +65,7 @@ Or use the terminal script (`connect_M_w_llm.py`) for CLI interaction:
 python connect_M_w_llm.py
 ```
 
-## ✍️ Custom Prompt
+## Custom Prompt
 
 All interactions use a strict prompt template that:
 
@@ -73,16 +73,16 @@ All interactions use a strict prompt template that:
 - Encourages detailed explanations.
 - Disallows hallucinations or fabrications.
 
-## 📝 Session Management
+## Session Management
 
 - Sessions are stored in `chat_sessions/` as JSON files.
 - Rename, delete, or export chat logs through the UI sidebar.
 
-## 📄 Export
+## Export
 
 Chats can be exported in `.txt` format from the sidebar.
 
-## 👥 Contributors
+## Contributors
 
 - **Krishnagopal Jay**  
 - **Ritam Koley**  
