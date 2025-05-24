@@ -43,7 +43,7 @@ pip install -r requirements.txt
 1. Create a `.env` file and fill it with your credentials:
 
 ```env
-HF_TOKEN="your_huggingface_api_token"
+OPENROUTER_API_KEY="your_openrouter_api_key"
 PINECONE_API_KEY="your_pinecone_api_key"
 PINECONE_ENV="your_pinecone_environment"
 PINECONE_INDEX_NAME="your_pinecone_index_name"
