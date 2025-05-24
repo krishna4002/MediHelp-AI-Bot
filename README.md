@@ -10,9 +10,9 @@
 -  Memory-enabled chat sessions with save/load/edit/delete functionality.
 -  Export chat history as `.txt` files.
 
-##  Live Demo
+##  Live Demo                                       
 
-👉 **Try the app here:** [MediHelp AI on Streamlit](https://mediapp-ai-bot-gmodjkknuc6drnnqkvfdwd.streamlit.app/)
+👉 **Try the app here:** [MediHelp AI on Streamlit](https://mediapp-ai-bot-arozgmdrgccpdqgyvpnwqe.streamlit.app/)
 
 ##  Project Structure
 
