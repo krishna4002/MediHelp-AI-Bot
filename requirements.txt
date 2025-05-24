@@ -1,5 +1,4 @@
 streamlit
-tensorflow
 fpdf
 python-dotenv
 tqdm
@@ -14,4 +13,4 @@ huggingface_hub
 sentence-transformers
 langchain_openai
 openai
-tf-keras
+
