@@ -1,7 +1,7 @@
 import os
 import warnings
 from dotenv import load_dotenv
-import tensorflow as tf
+#import tensorflow as tf
 
 from langchain.chains import RetrievalQA
 from langchain_core.prompts import PromptTemplate
@@ -23,8 +23,8 @@ PINECONE_NAMESPACE = "medibot"
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 # --- Ensure loss function compatibility (if needed) ---
-loss_function = tf.compat.v1.losses.sparse_softmax_cross_entropy
-print("Loss function initialized correctly:", loss_function)
+#loss_function = tf.compat.v1.losses.sparse_softmax_cross_entropy
+#print("Loss function initialized correctly:", loss_function)
 
 # --- Load LLM from OpenRouter ---
 def load_llm_openrouter():
