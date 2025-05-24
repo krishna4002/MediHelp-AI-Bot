@@ -1,0 +1,17 @@
+streamlit
+tensorflow
+fpdf
+python-dotenv
+tqdm
+
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-pinecone
+
+huggingface_hub
+sentence-transformers
+langchain_openai
+openai
+tf-keras
