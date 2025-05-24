@@ -31,6 +31,8 @@
 - LangChain
 - Pinecone
 - fpdf
+- langchain_openai
+- openai
 
 Install dependencies with:
 
