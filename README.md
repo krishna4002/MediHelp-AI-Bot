@@ -49,6 +49,7 @@ OPENROUTER_API_KEY="your_openrouter_api_key"
 PINECONE_API_KEY="your_pinecone_api_key"
 PINECONE_ENV="your_pinecone_environment"
 PINECONE_INDEX_NAME="your_pinecone_index_name"
+TELEGRAMBOT_TOKEN="add_your_telegram_bot_token"
 ```
 
 2. Ensure Pinecone is configured with a suitable index using `"sentence-transformers/all-MiniLM-L6-v2"` as the embedding model.
