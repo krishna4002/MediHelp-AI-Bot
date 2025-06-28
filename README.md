@@ -18,7 +18,7 @@
 - **Bot Name**: `MediHelp AI`
 - **Bot Username**: `@MediHelp_AI_Bot`
 
-  for more information you can visit this link [telegram bot](https://github.com/krishna4002/Build-Telegram-Bot-for-MediHelp-AI)
+- For more information about Telegram Bot, you can visit this link: [telegram bot](https://github.com/krishna4002/Build-Telegram-Bot-for-MediHelp-AI)
 
 ##  Project Structure
 
