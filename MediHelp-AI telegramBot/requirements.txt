@@ -1,0 +1,12 @@
+aiogram
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+pinecone
+huggingface-hub
+fpdf
+langchain_pinecone
+langchain_openai
+openai
