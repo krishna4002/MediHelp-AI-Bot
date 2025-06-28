@@ -14,6 +14,10 @@
 
 👉 **Try the app here:** [MediHelp AI on Streamlit](https://mediapp-ai-bot-arozgmdrgccpdqgyvpnwqe.streamlit.app/)
 
+## Bot Info
+- **Bot Name**: `MediHelp AI`
+- **Bot Username**: `@MediHelp_AI_Bot` 
+
 ##  Project Structure
 
 ```bash
