@@ -12,7 +12,7 @@
 
 ##  Live Demo                                       
 
-👉 **Try the app here:** [MediHelp AI on Streamlit](https://mediapp-ai-bot-arozgmdrgccpdqgyvpnwqe.streamlit.app/)
+👉 **Try the app here:** [MediHelp AI on Streamlit](https://medical-ai-bot.streamlit.app/)
 
 ## Bot Info
 - **Bot Name**: `MediHelp AI`
